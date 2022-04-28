@@ -25,7 +25,7 @@ xhr.addEventListener("readystatechange", function () {
           ${newsdata[i].title}
           </P>
           <br>
-          <p> Find Out More Information <a href="${newsdata[i].url}m">Go to Website</a> </p>
+          <p> Find Out More Information <a href="${newsdata[i].url}">Go to Website</a> </p>
       </div>` ;
     
 
