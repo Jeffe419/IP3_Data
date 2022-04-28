@@ -1,0 +1,34 @@
+#map2{
+
+    height: 100vh;
+    width: 80%;
+    margin: 0;
+    }
+
+
+    #flightinfo{
+        padding-top: 3vh;
+        text-align: center;
+        align-content: center;
+        height: 100vh;
+        width: 20%;
+        margin: 0;
+        background-color:azure;
+  }
+
+#statistics{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+  
+#container{
+    
+    display: flex;
+  }
+
+.gradient{
+    margin: 0px;
+    position: relative;
+    height: fit-content;
+    background-color:rgba(128, 131, 148, 0.7) ;
+}
